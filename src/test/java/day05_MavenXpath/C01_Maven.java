@@ -17,7 +17,7 @@ public class C01_Maven {
         //3- “Samsung headphones” ile arama yapalim
         //4- Bulunan sonuc sayisini yazdiralim
         //5- Ilk urunu tiklayalim
-        //6- Sayfadaki tum basliklari yazdiralim
+        //6- Sayfadaki tum basliklari yazdiralim `
 
         WebDriverManager.chromedriver().setup();
         WebDriver driver=new ChromeDriver();
